@@ -1,0 +1,5 @@
+Version: 1.0.0
+
+This is version 1.0.0 because it represents the first stable release.
+According to Semantic Versioning, the major version is set to 1 when
+the software is ready for its initial public release.
